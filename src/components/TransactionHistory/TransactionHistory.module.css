@@ -1,0 +1,16 @@
+.transactionHistory {
+    width: 300px;
+    text-transform: capitalize;
+    text-align: center;
+    border: 1px solid grey;
+}
+
+thead {
+    background-color: royalblue;
+    color: white;
+    text-transform: uppercase;
+}
+
+td {
+    padding: 5px 0;
+}
